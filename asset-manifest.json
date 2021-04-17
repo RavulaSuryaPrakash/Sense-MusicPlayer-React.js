@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sense-MusicPlayer-React.js/static/css/main.5647ef73.chunk.css",
+    "main.js": "/Sense-MusicPlayer-React.js/static/js/main.40ce25a4.chunk.js",
+    "main.js.map": "/Sense-MusicPlayer-React.js/static/js/main.40ce25a4.chunk.js.map",
+    "runtime-main.js": "/Sense-MusicPlayer-React.js/static/js/runtime-main.9d4cc0b7.js",
+    "runtime-main.js.map": "/Sense-MusicPlayer-React.js/static/js/runtime-main.9d4cc0b7.js.map",
+    "static/js/2.9e8d38ac.chunk.js": "/Sense-MusicPlayer-React.js/static/js/2.9e8d38ac.chunk.js",
+    "static/js/2.9e8d38ac.chunk.js.map": "/Sense-MusicPlayer-React.js/static/js/2.9e8d38ac.chunk.js.map",
+    "static/js/3.6d9963c3.chunk.js": "/Sense-MusicPlayer-React.js/static/js/3.6d9963c3.chunk.js",
+    "static/js/3.6d9963c3.chunk.js.map": "/Sense-MusicPlayer-React.js/static/js/3.6d9963c3.chunk.js.map",
+    "index.html": "/Sense-MusicPlayer-React.js/index.html",
+    "static/css/main.5647ef73.chunk.css.map": "/Sense-MusicPlayer-React.js/static/css/main.5647ef73.chunk.css.map",
+    "static/js/2.9e8d38ac.chunk.js.LICENSE.txt": "/Sense-MusicPlayer-React.js/static/js/2.9e8d38ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d4cc0b7.js",
+    "static/js/2.9e8d38ac.chunk.js",
+    "static/css/main.5647ef73.chunk.css",
+    "static/js/main.40ce25a4.chunk.js"
+  ]
+}
